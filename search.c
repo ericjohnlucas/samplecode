@@ -9,6 +9,7 @@
 /*search.c designed by Eric J D'Souza
 
 A simple Ascii search tool implemented in C
+Relies on an index created by the attached file index.c
 */
 
 struct occlist /*linked list of filenames with their corresponding occurences*/
