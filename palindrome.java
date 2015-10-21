@@ -1,6 +1,7 @@
 
 public class palindrome{
 
+    //Given a string which contains one or more palindrome substrings, this method will return the length of the longest substring
     public static int returnLongestPalindromeLength(String s){
         int longest_length=-1;
         //we iterate through the string
